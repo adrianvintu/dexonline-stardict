@@ -1,0 +1,20 @@
+Salut Cosmin, m-a contactat o persoana petnru dictionar. Vezi conversatia mai jos. Ar dori sa iti scrie, dar nu are o adresa de contact de a ta.
+
+On Thursday, August 23, 2018, 3:24:24 AM GMT+3, Rafail Popescu <ierom.rafail.popescu@gmail.com> wrote:
+
+
+
+  Doamne ajută!
+Sunt un utilizator și admirator al aplicației DexOnline și al echipei care se află în spatele ei și vă deranjez cu o rugăminte:
+   Încerc să instalez baza de date dexonline (de fapt offline) ca dictionar auxiliar in aplicația NeoReader a unui eReader Onyx Boox Note. Această aplicație lucrează cu dicționare în format StarDict. Am văzut postarea d-lui Mihail Radu Solcandespre conversia în format StarDict a bazei de date pe care o oferiți în format SQL însă nu am putut urmări procedura decât până la un anumit punct. Fișierele pe care le-am găsit deja convertite de dl. Cosmin Adrian Popescu (https://github.com/cosminadrianpopescu/dexonline-stardict) cred că nu sunt complete, nu recunosc formele flexionare și nici toate diacriticele, ceea ce le face puțin folositoare.
+    Am instalat MySql, Workbench, WorkBench/j, care observ că sunt instrumente foarte puternice, dar cum nu am mai făcut programare de vreo 15 ani m-am înpotmolit... În WorkBench/j cu un driver JDSK HSQLDB se pare că se conectează la baza de date dex-database.sql dar nu îmi afișează nici un tabel, nu răspunde la nici o comandă (îmi dă o eroarea  ”user lacks privilege or object not found: LEXEM [SQL State=42501, DB Errorcode=-5501]”).
+   
+    Puteți să-mi recomandați o persoană care a rezolvat problema asta, sau măcar un sfat în legătură cu ce aș putea face?...
+
+   Vă mulțumesc anticipat și îmi cer mii de scuze pentru deranj.
+
+       Rafail P.
+       
+------------------------------------
+Aveți cumva o adresă de email a d-lui Cosmin Adrian Popescu (cred că pe dânsul mi l-ați recomandat)? Am postat o întrebare pe GitHub dar postarea dânsului este destul de veche și nu știu dacă o să o observe așa curând... 
+Vă multumesc!
